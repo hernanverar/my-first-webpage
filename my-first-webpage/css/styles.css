@@ -1,0 +1,18 @@
+h1 {
+  color: blue;
+  font-style: italic;
+  font: weight 300px; ;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: medium;
+line-height: 0em;
+}
+
+h2 {
+  text-align: center;
+}
+
+/* ul li {
+  background: #cce5ff;
+  color: darkblue;
+  margin: 5px;
+} */
